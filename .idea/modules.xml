@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mapper1/Mapper1.iml" filepath="$PROJECT_DIR$/Mapper1/Mapper1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reducer1/Reducer1.iml" filepath="$PROJECT_DIR$/Reducer1/Reducer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reducer2/Reducer2.iml" filepath="$PROJECT_DIR$/Reducer2/Reducer2.iml" />
+    </modules>
+  </component>
+</project>
