@@ -3,15 +3,13 @@ import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
 import java.util.StringTokenizer;
 
-/**
- * Created by air on 26.01.16.
- */
+
 public class Main {
 
     public static void main(String[] args) throws IOException {
         InputStream stdin = null;
         stdin = System.in;
-        FileInputStream stream = new FileInputStream("/home/air/IdeaProjects/BigData/5.Algorithms_on_graph_MapReduce/PagePank/Mapper1/test");
+        FileInputStream stream = new FileInputStream("/<>/test");
         System.setIn(stream);
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));

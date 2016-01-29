@@ -10,7 +10,7 @@ public class Main {
 
         InputStream stdin = null;
         stdin = System.in;
-        FileInputStream stream = new FileInputStream("/home/air/IdeaProjects/BigData/5.Algorithms_on_graph_MapReduce/PagePank/Reducer1/test");
+        FileInputStream stream = new FileInputStream("/<>/test");
         System.setIn(stream);
 
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
